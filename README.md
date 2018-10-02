@@ -12,24 +12,25 @@ The gap we're talking abot is perhaps the most challenging objectives as describ
 ##### What does it mean?
   When you consider the nature of gaps, such as generational gaps, educational gaps or access- 
   you may realize the gap is naturally growing even in case you may mitigate this effect:
-    consider AGE, GENDER, RACE, CULTURE, MONEY...  gaps exist
-    consider OPPERTUNITY, STRENGTH, WEAKNESS, THREAT... gaps exist
-    consider TRANSPORT, ARCHITECHTURE, INVESTMENTS, CREDIT...  gaps exist
-    consider BANKING, BUSINESS, CORPORATIONS, COMPANIES, GOVERNMENTS...  gaps exist
-    consider EDUCATION, HUMAN RIGHTS, SOCIAL ACCESS, COMMUNITY, CAPACITY...  gaps exist
-    consider WEALTH, HEALTH, WELL-BEING and still the gaps exist.   
+    * consider AGE, GENDER, RACE, CULTURE, MONEY...  gaps exist
+    * consider OPPERTUNITY, STRENGTH, WEAKNESS, THREAT... gaps exist
+    * consider TRANSPORT, ARCHITECHTURE, INVESTMENTS, CREDIT...  gaps exist
+    * consider BANKING, BUSINESS, CORPORATIONS, COMPANIES, GOVERNMENTS...  gaps exist
+    * consider EDUCATION, HUMAN RIGHTS, SOCIAL ACCESS, COMMUNITY, CAPACITY...  gaps exist
+    * consider WEALTH, HEALTH, WELL-BEING and still the gaps exist.   
     
  ##### What's universal about it?
-    => there's always a gap
-    => gaps tend to grow
-    => experience proves we can mitigate certain gaps with certain activities.
-       For instance - Educational programs that increase sanitation to reduce disease;
-       or - Economical programs that lend small amounts to create business opportunities;
-       or - Open-Source projects (programs too) that facilitate access to deprived countries;
-       or - Open-Source project for everyone. Individuals and Corporations alike - this, mitigating ACCESS TECHNOLOGY. 
+    \=> there's always a gap
+    \=> gaps tend to grow
+    \=> experience proves we can mitigate certain gaps with certain activities.
+       For instance 
+       - Educational programs that increase sanitation to reduce disease;
+       - Economical programs that lend small amounts to create business opportunities;
+       - Open-Source projects (programs too) that facilitate access to deprived countries;
+       - Open-Source project for everyone. Individuals and Corporations alike - this, mitigating ACCESS TECHNOLOGY. 
        etc.
     
-    => this means we have to take smarter decisions to mitigate the growing gaps everywhere.
+    \=> this means we have to take smarter decisions to mitigate the growing gaps everywhere.
     
 ### Let's try to put this in layers:
 --- The list is yet to be prioritized
