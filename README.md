@@ -20,9 +20,9 @@ The gap we're talking abot is perhaps the most challenging objectives as describ
     * consider WEALTH, HEALTH, WELL-BEING and still the gaps exist.   
     
  ##### What's universal about it?
-    /=> there's always a gap
-    /=> gaps tend to grow
-    /=> experience proves we can mitigate certain gaps with certain activities.
+    > there's always a gap
+    > gaps tend to grow
+    > experience proves we can mitigate certain gaps with certain activities.
        For instance 
        - Educational programs that increase sanitation to reduce disease;
        - Economical programs that lend small amounts to create business opportunities;
@@ -30,7 +30,7 @@ The gap we're talking abot is perhaps the most challenging objectives as describ
        - Open-Source project for everyone. Individuals and Corporations alike - this, mitigating ACCESS TECHNOLOGY. 
        etc.
     
-    /=> this means we have to take smarter decisions to mitigate the growing gaps everywhere.
+##### this means we have to take smarter decisions to mitigate the growing gaps everywhere.
     
 ### Let's try to put this in layers:
 --- The list is yet to be prioritized
