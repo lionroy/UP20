@@ -45,10 +45,10 @@ The gap is defined by one or more of the following access-abilities
   1. Access Economy, Money and Wealth Creation
 
 In terms of society there are Sectors where the gap exists. Note that these are our natural strategic allies,
-   Organizations that provide:
-    Access Communities
-    Access Culture
-    Access Authority (Government, Municipal, Organizations)
-    Access Business
-    Access Information Sources and Process Power
-    Access Culture, Creativity and Art
+We seek to engage with organizations that provide solutions for these issues:
+*  Access Communities
+*  Access Culture
+*  Access Authority (Government, Municipal, Organizations)
+*  Access Business
+*  Access Information Sources and Process Power
+*  Access Culture, Creativity and Art
