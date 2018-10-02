@@ -3,10 +3,10 @@ UP20 | Universal Projects Twenty is an open-source social entrepreneurship best-
 
 ## Documentation
 ### [Policy](Policy.md)
-### Strategy
-### [Templates](Docs/Templates/)
-### Utilities
-### Useful Links
-### Programs
+### [Strategy](Docs.Strategy.md)
+### [Templates](Docs/Templates.md)
+### [Utilities](Docs/Utilities.md)
+### [Useful Links](Docs/UsefulLinks.md)
+### [Programs](Docs/Programs.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
