@@ -9,5 +9,6 @@ UP20 | Universal Projects Twenty is an open-source social entrepreneurship best-
 ### Useful Links
 ### Programs
 
-Powered by ![GitHub Logo](/images/logo.png)
+Powered by 
+![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
