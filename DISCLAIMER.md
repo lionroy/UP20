@@ -32,6 +32,7 @@ For clarifications please refer to Github community forum guidelines. (see excer
 > If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of this forum privately, you can send an email to community@github.com or use the Support contact form. Contacting any member of GitHub Staff via channels other than the forum itself, the Support email address, or contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 >Let's work together to keep the forum a place where people feel safe to participate by being respectful of them and their time.
+
 > Legal Notices
 
 > Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a Terms of Service and Privacy Statement describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our Terms of Service and the Privacy Statement.
