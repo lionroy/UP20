@@ -4,9 +4,9 @@ is an open-source social project best-bractice marketplace for entrepreneurs.
 
 > OS => SP * BP * MP => SE
 
-Our vision is to lead by co-creation and participation promoting **_the common wealth creation_** that's why we invest in educational programs who promote sustainablity and civil society networks to start with. By drawing upon the common wealth of ideas we act to promote more social interactions and in effect to increase _The Social Surplus of our global network_.
+Our vision is to become leaders of co-creation and participation by promoting **_the common wealth creation_**. By drawing upon the common wealth of ideas we act to promote more social interactions and in effect to increase _The Social Surplus of our global network_, and that's why we invest in educational programs who promote sustainablity and civil society networks to start with. 
 
-UP20 members concentrate efforts promoting _the ability of the commons_ for capacity building to florish and thrive upon _the common ability_. 
+UP20 members concentrate efforts promoting _the ability of the commons_ for capacity building to florish and thrive upon _the common ability_ to generate wealth and creativity. 
 
 To improve access and literacy, as well as, _all resources neccessary_ for **common wealth creation** and by that - to promote the source of well-being. 
 Our premise is based on vast experience and research suggesting that ALL wealth is created by the commons.
