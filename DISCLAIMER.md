@@ -13,7 +13,7 @@ From time to time, we reach out to individuals on our listserv to promote course
 From time to time, UP20 may collaborate with third parties on course creation. By signing up for this community, you consent to UP20 sharing any content you post to the course or the information that you share with UP20, as well as, with our course partners.
 
 
-- [ ] I agree to the above terms and conditions!
+- [x] I agree to the above terms and conditions!
 
 #### Do you think this document needs improvements? contains mistakes? 
 ##### Want to contribute to this document? 
