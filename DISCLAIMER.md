@@ -4,8 +4,9 @@ All community members who utilise || contribute || share ANY content on this pro
 
 All UP20 members should respect the Github CoC, for we are members as pre-requisites. In addition, being a professional community all members are encouraged to read and abide to its community guidelines linked here.
 
+* Community Codes of Conduct (CoC) | [GitHub Community Forum Code of Conduct](https://help.github.com/articles/github-community-forum-code-of-conduct/)
+  
 ## Code of Conduct
-  * Community Codes of Conduct (CoC) | [GitHub Community Forum Code of Conduct](https://help.github.com/articles/github-community-forum-code-of-conduct/)
   
 You acknowledge that your participation in any aspect of this community is voluntary. You accept full responsibility for your participation in this activity, and by virtue of your participation, you waive any claims that you may now or hereafter have against UP20 staff and members, its employees or its representatives in connection with the community activities.
 
@@ -16,7 +17,6 @@ By signing up for this community, you consent to UP20 storing your name and cont
 From time to time, we reach out to individuals on our listserv to promote courses and activity or provide feedback. Such solicitations or other items that may be of interest to you are always initiated by our UP20 members activity and _you can opt out of these communications at any time_ , and we promote open discussions on these and other issues in forums.
 
 From time to time, UP20 may collaborate with third parties on course creation. By signing up for this community, you consent to UP20 sharing any content you post to the course or the information that you share with UP20, as well as, with our course partners.
-
 
 - [x] I agree to the above terms and conditions!
 
