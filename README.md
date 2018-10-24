@@ -2,15 +2,15 @@
 **UP20 | Universal Projects _Twenty_**
 is an open-source social project best-practice marketplace for everyone. 
 
-Here's a simple mnemonic formula to describe our values: `<OS => SP * BP * MP => SE>` which in many words stands for-
+Here's a simple mnemonic formula to describe our values: `OS => SP * BP * MP => SE` which in many words stands for-
 
-> Opensource (this) repo => ( my_Social_program * my_best_practice * MARKET_PLACE) => Social Enterprise & Engagement 
-
-WE find great Social Projects (Sp) and learn about their Best Practice (Bp) and share them in the Market-Place (Mp) which is designed specifically for enterpreneurs, social activists and organizations.
+> UP20 is a SHARED MARKET PLACE for civil society organizations, social enterprises & community engagement
 
 ## Our Vision
-
 Our vision is to become leaders of co-creation and participation by promoting **_the common wealth creation_**. By drawing upon the common wealth of ideas we act to promote more social interactions and in effect to increase _The Social Surplus of our global network_, and that's why we invest in educational programs who promote sustainablity and civil society networks to start with. 
+
+### What do we do?
+WE find great Social Projects (Sp) and learn about their Best Practice (Bp) and share them in the Market-Place (Mp) which is designed specifically for enterpreneurs, social activists and organizations.
 
 ### Who are we?
 UP20 members concentrate efforts promoting _the ability of the commons_ for capacity building to florish and thrive upon _the common ability_ to generate wealth and creativity. 
@@ -20,9 +20,8 @@ Our premise is based on vast experience and research suggesting that ALL wealth 
 
  Our members, partners and affiliates reach-out to collaborate with like-minded professionals from all walks of life including - eager entrepreneurs, top-notch managers, brilliant consultants and tech-savvy developers in companies, organizations and in fact we are all social activists.
 
-### What is this project about?
-UP20 is currently focused on providing solutions that globally address the digital gap. Read more about our [digital gap policy](Policy.md) .
-Our Main Theme is **Mitigating The Digital Gap** and we intend to achieve remarkable success by 2020 and beyond.
+### What is this project focused about?
+UP20 is currently focused on providing solutions that globally address the digital gap. Our Main Theme is **Mitigating The Digital Gap** and we intend to achieve remarkable success by 2020 and beyond. Read more about our [digital gap policy](Policy.md). 
 
 ## Our Strategic Aims and Values include 
   - To create Open-Source Spaces by building Bridges and Infrastructures to advance people everywhere.
