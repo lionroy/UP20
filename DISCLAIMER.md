@@ -25,4 +25,17 @@ From time to time, UP20 may collaborate with third parties on course creation. B
 easy (!) - Make a pull request (PR) edit the file and suggest changes. [Learn more about PRs](#).
 p.s. don't worry - your proof-reading will be reviewed before the changes take effect.
 
+For clarifications please refer to Github community forum guidelines. (see excerpt below)
+
+> Contacting GitHub Staff
+
+> If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of this forum privately, you can send an email to community@github.com or use the Support contact form. Contacting any member of GitHub Staff via channels other than the forum itself, the Support email address, or contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
+
+>Let's work together to keep the forum a place where people feel safe to participate by being respectful of them and their time.
+> Legal Notices
+
+> Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a Terms of Service and Privacy Statement describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our Terms of Service and the Privacy Statement.
+
+> This Code of Conduct does not modify our Terms of Service and is not intended to be a complete list. GitHub retains full discretion under the Terms of Service to remove any content or terminate any accounts for activity that is "unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service." This Code of Conduct describes when we will exercise that discretion.
+
 
