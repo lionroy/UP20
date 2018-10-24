@@ -1,7 +1,8 @@
 # UP20
 **UP20 | Universal Projects _Twenty_**
 is an open-source social project best-bractice marketplace for entrepreneurs. 
-(OS => SP * BP * MP => SE). 
+
+> OS => SP * BP * MP => SE
 
 Our vision is **To co-create and participate in _the common wealth creation_** so we invest in educational program and sustainable societies to start with.
 
