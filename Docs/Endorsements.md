@@ -19,10 +19,6 @@ Suggestions are very welcome - Make a pull request to add your project link:
   * Network Weavers - [Join the Network Weavers Network](#)
   * Dragon Dreaming - [Join the Dragon Dreaming Community](#)
   * Enspiral - [Join the Enspiral Community](#)
-## Code of Conduct
-  * Community Codes of Conduct (CoC) | [GitHub Community Forum Code of Conduct](https://help.github.com/articles/github-community-forum-code-of-conduct/)
-  All UP20 members should respect the Github CoC, for we are members as pre-requisites. In addition, being a professional community all members are encouraged to read and abide to its community guidelines found here
-    
 
 ## Ethics
   * [Burning Man's Ten principles](https://burningman.org/culture/philosophical-center/10-principles/)
