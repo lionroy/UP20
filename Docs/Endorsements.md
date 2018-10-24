@@ -10,9 +10,9 @@ By endorsing the following global efforts we seek to align with like minded acti
 Suggestions are very welcome - Make a pull request to add your project link:
 
 ## Free Courses
-  * SDG Academy | ICT for SDG - [join this course on edx.com](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/course/)
-  * MIT | U.Lab 0.x Leading Awareness-Based Systems Change - How to Sense and Actualize the Future [join this course on edx.com](https://courses.edx.org/courses/course-v1:MITx+15.671.0x+2T2016/course/)
-  * MIT | U.Lab 1.x   Leading From the Emerging Future [join this course on edx.com](https://courses.edx.org/courses/course-v1:MITx+15.671.1x+3T2018/course/)
+  * SDG Academy | The role of ICT for SDG - [join this course on edx.com](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/course/)
+  * MIT | U.Lab 0.x [Leading Awareness-Based Systems Change - How to Sense and Actualize the Future](https://courses.edx.org/courses/course-v1:MITx+15.671.0x+2T2016/course/)
+  * MIT | U.Lab 1.x [Leading From the Emerging Future](https://courses.edx.org/courses/course-v1:MITx+15.671.1x+3T2018/course/)
   * Acumen - [Systems Practice: A Practical Approach to Move from Impossible to Impact](https://plusacumen.novoed.com/#!/courses/systems-practice-2018-3/home)
   
 ## Models
