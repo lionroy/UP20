@@ -1,6 +1,6 @@
 # UP20
 **UP20 | Universal Projects _Twenty_**
-is an open-source social project best-bractice marketplace for entrepreneurs. 
+is an open-source social project best-practice marketplace for everyone. Our members, partners and affiliates reach-out to collaborate with like-minded professionals from all walks of life including - eager entrepreneurs, top-notch managers, brilliant consultants and tech-savvy developers in companies, organizations and in fact _we are all social activists._ 
 
 > OS => SP * BP * MP => SE
 
@@ -24,11 +24,18 @@ Our Main Theme is **Mitigating The Digital Gap** and we intend to achieve remark
   - To Support local as well as global communities to acheive remarkable feats and providing solutions to local/global issues.
   - To endorse two-way-binding in knowledge management and capacity building, allowing us to learn from local communities.
  
+### Getting started
+[Creating content on Github](https://help.github.com/articles/managing-files-on-github/) is easy to learn.
+**members can even contribute by _editing this document_** here's how -
+
+All you have to do - is click on the pencil icon found on the upper-right corner of this document to start contributing. Once you are done editing - you can making a PR which is a Pull Request. Don't worry, your changes will only be published after they are reviewed by UP20 staff members. [Learn more about Pull Requests](https://help.github.com/articles/about-pull-requests/).
 
 ### How does it work?
   UP20 is a marketplace of ideas directed at Sustainable Development Goals, also called the SDG's or SDG list of objectives. 
+  
 ### Who will use this repo or project?
   Anyone developing SDG programs and content who wish to share their [best-practices] and ideas.
+  
 ### What is the goal of this project?
   To share and collaborate on global issues and create open-source content to be used in social development.
 
