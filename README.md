@@ -1,6 +1,10 @@
 # UP20
 **UP20 | Universal Projects _Twenty_**
-is an open-source social entrepreneurship best-bractice marketplace. UP20 is concentrated on wealth creation and source of well-being. "Wealth is the product of wisdom and health (anonymous)" so we invest in educational program and sustainable societies to start with.
+is an open-source social project best-bractice marketplace for entrepreneurs (Sp-Bp-Mp-E). UP20 is concentrated on wealth creation and source of well-being. Our premise is based on vast experience and research suggests that wealth is created by the commons.
+
+Our vision is **To co-create and participate in _the common wealth creation_** so we invest in educational program and sustainable societies to start with.
+
+WE find great Social Projects (Sp) and learn about their Best Practice (Bp) and share them in the Market-Place (Mp) which is designed specifically for enterpreneurs, social activists and organizations.
 
 ### What is this project about?
 UP20 is currently focused on providing solutions that globally address the digital gap. Read more about our [digital gap policy](Policy.md) .
