@@ -26,6 +26,7 @@ Our Strategic Values includes
 ## Documentation
 ### [Policy](Policy.md)
 ### [Strategy](Docs/Strategy.md)
+### [Endorsements](Docs/Endorsements.md)
 ### [Templates](Docs/Templates.md)
 ### [Utilities](Docs/Utilities.md)
 ### [Useful Links](Docs/Useful_Links.md)
