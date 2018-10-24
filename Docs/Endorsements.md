@@ -11,11 +11,11 @@ Suggestions are very welcome - Make a pull request to add your project link:
 
 ## Free Courses
   * SDG Academy | ICT for SDG - [join this course on edx.com](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/course/)
-  * MIT | U.Lab 0.x - [join this course on edx.com](#)
-  * MIT | U.Lab 1.x -  [join this course on edx.com](#)
+  * MIT | U.Lab 0.x - [join this course on edx.com](https://courses.edx.org/courses/course-v1:MITx+15.671.0x+2T2016/course/)
+  * MIT | U.Lab 1.x -  [join this course on edx.com](https://courses.edx.org/courses/course-v1:MITx+15.671.1x+3T2018/course/)
   * Acumen - [Systems Practice: A Practical Approach to Move from Impossible to Impact](https://plusacumen.novoed.com/#!/courses/systems-practice-2018-3/home)
   
-##Models
+## Models
   * Network Weavers - [Join the Network Weavers Network](#)
   * Dragon Dreaming - [Join the Dragon Dreaming Community](#)
   * Enspiral - [Join the Enspiral Community](#)
