@@ -2,6 +2,11 @@
 
 All community members who utilise || contribute || share ANY content on this project site must agree to the following additional terms and conditions.
 
+All UP20 members should respect the Github CoC, for we are members as pre-requisites. In addition, being a professional community all members are encouraged to read and abide to its community guidelines linked here.
+
+## Code of Conduct
+  * Community Codes of Conduct (CoC) | [GitHub Community Forum Code of Conduct](https://help.github.com/articles/github-community-forum-code-of-conduct/)
+  
 You acknowledge that your participation in any aspect of this community is voluntary. You accept full responsibility for your participation in this activity, and by virtue of your participation, you waive any claims that you may now or hereafter have against UP20 staff and members, its employees or its representatives in connection with the community activities.
 
 From time to time, UP20 may use any content you post in the website to further its philanthropic mission and further improve the shared contents for future iterations. You will retain your rights to any original content you submit to the website , but by signing up for this community, and sharing your content in this open-source platform you automatically grant (or warrant that the owner of such content has expressly granted) to ALL INTERNET USERS a royalty-free, perpetual, irrevocable, worldwide, nonexclusive, fully-transferable license and right to use, reproduce, create derivative works from, modify, translate, distribute, perform, and display such content (or any derivative work based thereon) either alone or as part of other works in any form.
