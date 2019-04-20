@@ -27,7 +27,7 @@ Our premise is based on vast experience and research suggesting that ALL wealth 
  Our members, partners and affiliates reach-out to collaborate with like-minded professionals from all walks of life including - eager entrepreneurs, top-notch managers, brilliant consultants and tech-savvy developers in companies, organizations and in fact we are all social activists.
 
 ### What is this project focused about?
-UP20 is currently focused on providing solutions that globally address the digital gap. Our Main Theme is **Mitigating The Digital Gap** and we intend to achieve remarkable success by 2020 and beyond. Read more about our [digital gap policy](Policy.md). 
+UP20 is currently focused on providing solutions that globally address the digital gap. Our Main Theme is **Mitigating The Digital Gap** and we intend to achieve remarkable success by 2020 and beyond. Read more about our [digital gap policy](Docs/Policy.md). 
 
 ## Our Strategic Aims and Values include 
   - To create Open-Source Spaces by building Bridges and Infrastructures to advance people everywhere.
