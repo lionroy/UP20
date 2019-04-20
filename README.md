@@ -2,8 +2,14 @@
 **UP20 | Universal Projects _Twenty_**
 is an open-source social project best-practice marketplace for everyone. 
 
-Here's a simple mnemonic formula to describe our values: `OS => SP * BP * MP => SE` which in many words stands for-
+Here's a simple mnemonic formula to describe our values: 
+`Open Source Software => 
+     Value(Social Programs * 
+     Best-Practices * 
+     Monitoring * 
+     Public Relations) = Shared Value` 
 
+which in many words stands for-
 > UP20 is a SHARED MARKET PLACE for civil society organizations, social enterprises & community engagement
 
 ## Our Vision
@@ -47,7 +53,7 @@ All you have to do - is click on the pencil icon found on the upper-right corner
 
 
 ## Documentation
-### [Policy](./Policy.md)
+### [Policy](Docs/Policy.md)
 ### [Strategy](Docs/Strategy.md)
 ### [Endorsements](Docs/Endorsements.md)
 ### [Templates](Docs/Templates.md)
