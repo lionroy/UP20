@@ -47,7 +47,7 @@ All you have to do - is click on the pencil icon found on the upper-right corner
 
 
 ## Documentation
-### [Policy](Policy.md)
+### [Policy](./Policy.md)
 ### [Strategy](Docs/Strategy.md)
 ### [Endorsements](Docs/Endorsements.md)
 ### [Templates](Docs/Templates.md)
